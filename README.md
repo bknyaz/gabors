@@ -28,3 +28,15 @@ could be done using boosting algorithms, so only combinations of filters can be 
 - LIBSVM
 - Several functions from
 [Autoconvolution for Unsupervised Feature Learning] (https://github.com/bknyaz/autocnn_unsup)
+
+
+## Filters
+
+Real parts
+
+![155_real](https://raw.githubusercontent.com/bknyaz/gabors/master/155_real.png)
+
+
+Image parts
+
+![155_imag](https://raw.githubusercontent.com/bknyaz/gabors/master/155_imag.png)
