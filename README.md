@@ -17,9 +17,9 @@ to other works with similar result (without data augmentation and cropping).
 
 Heuristic selection is the most difficult part and will not be discussed here. 
 Just a few rather obvious comments:
-..* there are about 10^182 possible unique combinations of 155 filters from a set of 1000, 
+- there are about 10^182 possible unique combinations of 155 filters from a set of 1000, 
 so there is no (trivial) way to brute force this task;
-..* there is no (again, trivial) way to find "strong" (in terms of classification error) and "weak" filters as
+- there is no (again, trivial) way to find single "strong" (in terms of classification error) and "weak" filters as
 could be done using boosting algorithms, so only combinations of filters can be strong or weak.
 
 ## Dependencies
