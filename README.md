@@ -1,8 +1,10 @@
 ## 0.30% error on MNIST with 155 Gabor filters
 
-The presented code is NOT a good solution: 
-1) it overfits to the test set a lot; 
-2) the accuracy is very sensitive to the parameters of filters.
+The presented code is NOT a good solution:
+
+1. it overfits to the test set a lot; 
+2. the accuracy is very sensitive to the parameters of filters.
+
 But still, it was quite surprising to obtain such a low test error given the simplicity of the model compared
 to other works with similar result (without data augmentation and cropping).
 
